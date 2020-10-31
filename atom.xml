@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YINGYINYIの空间</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-10-31T04:51:58.062Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>SCB</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2020/10/31/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/"/>
+    <id>http://example.com/2020/10/31/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/</id>
+    <published>2020-10-31T04:51:58.062Z</published>
+    <updated>2020-10-31T04:51:58.062Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
